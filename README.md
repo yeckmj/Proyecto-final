@@ -3,5 +3,6 @@ Creación de un producto mínimo viable (GREAT SOLUTIONS COMPANY: calculadora de
 Yeck Mateo 
 Reynaldo Vizcaino 
 Adrianny Candelario Duarte
-seccion 0463
 OYM
+Programacion estructurada
+seccion 0463
